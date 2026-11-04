@@ -64,6 +64,14 @@ function lastId() {
 function ensureSchema() {
   const safe = sql => { try { db.run(sql); } catch (_) {} };
 
+  // Fresh/empty DB (casaMonarca.db is gitignored) → create base tables from schema.sql
+  const hasTables = queryOne(
+    `SELECT name FROM sqlite_master WHERE type='table' AND name='ingredients'`
+  );
+  if (!hasTables) {
+    db.exec(fs.readFileSync(path.join(__dirname, 'schema.sql'), 'utf8'));
+  }
+
   // Add columns the app needs that aren't in the original schema
   safe(`ALTER TABLE ingredients ADD COLUMN slug TEXT`);
   safe(`ALTER TABLE ingredients ADD COLUMN par  REAL DEFAULT 0`);

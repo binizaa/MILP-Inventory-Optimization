@@ -7,6 +7,7 @@ const Sidebar = ({ current, onNavigate, recipeCount, lowStockCount, shoppingCoun
     { id: "inventory",  label: "Inventario",        icon: "box",  badge: lowStockCount, badgeKind: lowStockCount > 0 ? "alert" : null },
     { id: "attendance", label: "Asistencia semanal", icon: "users" },
     { id: "purchases",  label: "Compras sugeridas", icon: "cart", badge: shoppingCount, badgeKind: shoppingCount > 0 ? "alert" : null },
+    { id: "supermarkets", label: "Supermercados",   icon: "store" },
   ];
   return (
     <aside className="cm-sidebar">

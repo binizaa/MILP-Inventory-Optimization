@@ -2,10 +2,11 @@ var { useState, useEffect, useMemo, useCallback } = React;
 
 const TITLES = {
   dashboard:  { eyebrow: "Inicio",        title: "Panel de cocina — Casa Monarca",              subtitle: "Resumen de la semana, lista de compras y asistencia." },
-  recipes:    { eyebrow: "Sección 1 / 4", title: "Registro de recetas y materia prima",         subtitle: "Da de alta los platillos del menú y desglosa sus ingredientes por porción mediana." },
-  inventory:  { eyebrow: "Sección 2 / 4", title: "Control de inventario",                       subtitle: "Stock actual de la cocina y la bodega, organizado por ubicación." },
-  attendance: { eyebrow: "Sección 3 / 4", title: "Registro de asistencia",                      subtitle: "Personas presentes hoy, desglosadas por tamaño de porción." },
-  purchases:  { eyebrow: "Sección 4 / 4", title: "Módulo de compras sugeridas",                 subtitle: "Cruce dinámico entre asistencia, recetas e inventario. Se recalcula al instante." },
+  recipes:    { eyebrow: "Sección 1 / 5", title: "Registro de recetas y materia prima",         subtitle: "Da de alta los platillos del menú y desglosa sus ingredientes por porción mediana." },
+  inventory:  { eyebrow: "Sección 2 / 5", title: "Control de inventario",                       subtitle: "Stock actual de la cocina y la bodega, organizado por ubicación." },
+  attendance: { eyebrow: "Sección 3 / 5", title: "Registro de asistencia",                      subtitle: "Personas presentes hoy, desglosadas por tamaño de porción." },
+  purchases:  { eyebrow: "Sección 4 / 5", title: "Módulo de compras sugeridas",                 subtitle: "Cruce dinámico entre asistencia, recetas e inventario. Se recalcula al instante." },
+  supermarkets: { eyebrow: "Sección 5 / 5", title: "Supermercados",                             subtitle: "Proveedores y precios de referencia para las compras." },
 };
 
 const App = () => {
@@ -61,6 +62,9 @@ const App = () => {
         if (data.recipes.length > 0)   setRecipes(data.recipes);
         if (data.people.length > 0)    setPeople(data.people);
       }
+      setDbReady(true);
+    }).catch(err => {
+      console.error("db:load error", err);
       setDbReady(true);
     });
   }, []);
@@ -145,6 +149,7 @@ const App = () => {
               {tab === "inventory"  && <>Inventario <em>actual</em></>}
               {tab === "attendance" && <>Asistencia <em>del día</em></>}
               {tab === "purchases"  && <>Compras <em>sugeridas</em></>}
+              {tab === "supermarkets" && <>Super<em>mercados</em></>}
             </h1>
             <p>{t.subtitle}</p>
           </div>
@@ -211,6 +216,7 @@ const App = () => {
             recomputeKey={0}
           />
         )}
+        {tab === "supermarkets" && <SupermarketsView />}
       </main>
 
       {toast && (

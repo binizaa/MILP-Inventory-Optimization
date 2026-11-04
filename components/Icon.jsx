@@ -33,6 +33,10 @@ const Icon = ({ name, size = 18, strokeWidth = 1.75, style }) => {
       return (
         <svg {...props}><path d="M3 4h2l2.3 11.3a2 2 0 0 0 2 1.7h7.4a2 2 0 0 0 2-1.6L20 8H6"/><circle cx="10" cy="20" r="1.4"/><circle cx="17" cy="20" r="1.4"/></svg>
       );
+    case "store":
+      return (
+        <svg {...props}><path d="M4 9l1.5-5h13L20 9"/><path d="M4 9h16v1.5a2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0V9z"/><path d="M5 12.5V20h14v-7.5"/><path d="M10 20v-4h4v4"/></svg>
+      );
     case "plus":
       return <svg {...props}><path d="M12 5v14M5 12h14"/></svg>;
     case "minus":
