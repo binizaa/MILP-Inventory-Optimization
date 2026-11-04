@@ -38,6 +38,7 @@ Load order is critical because there are no ES modules — each file assigns to 
 
 1. `data.js` — seeds `window.INITIAL_INVENTORY`, `window.INITIAL_RECIPES`, `window.INITIAL_ATTENDANCE`, `window.PORTION_MULTIPLIERS`, `window.LOCATIONS`, `window.UNITS`, `window.CATEGORIES`
 2. `compute.js` — exports pure functions to `window.CM` (no side effects, no React)
+   - `location.js` — `window.CMLocation.getDeviceLocation()`; currently returns a hardcoded position (real geolocation methods go here)
 3. `components/Icon.jsx` → `window.Icon`
 4. `components/Sidebar.jsx` → `window.Sidebar`
 5. `components/DashboardView.jsx` → `window.DashboardView`

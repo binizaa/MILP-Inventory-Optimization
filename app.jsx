@@ -17,6 +17,7 @@ const App = () => {
   const [dbReady, setDbReady]         = useState(false);
   const [splashVisible, setSplashVisible] = useState(true);
   const [toast, setToast]             = useState(null);
+  const [userLocation, setUserLocation] = useState(null); // { lat, lng, accuracy, timestamp }
 
   useEffect(() => {
     // Remove the static HTML splash once React has mounted
@@ -153,7 +154,7 @@ const App = () => {
             </h1>
             <p>{t.subtitle}</p>
           </div>
-          <div className="cm-week-pill">
+          {/* <div className="cm-week-pill">
             <span className="dot"></span>
             <div>
               <div className="lbl" style={{ fontSize: 11, textTransform: "uppercase", letterSpacing: "0.1em" }}>
@@ -168,7 +169,7 @@ const App = () => {
               </div>
               <strong>{window.CM.totalPeople(appliedAttendance)}</strong>
             </div>
-          </div>
+          </div> */}
         </div>
 
         {tab === "dashboard" && (
@@ -216,7 +217,7 @@ const App = () => {
             recomputeKey={0}
           />
         )}
-        {tab === "supermarkets" && <SupermarketsView />}
+        {tab === "supermarkets" && <SupermarketsView onLocation={setUserLocation} />}
       </main>
 
       {toast && (
