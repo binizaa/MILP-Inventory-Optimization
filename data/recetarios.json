@@ -1,0 +1,1868 @@
+{
+  "fuentes": [
+    {
+      "recetario": "Recetario para Cooperativas Escolares",
+      "institucion": "Secretaría de Salud, Gobierno de México",
+      "estado": "general",
+      "url": "https://vidasaludable.gob.mx/storage/recursos/recetarios/Recetario-Cooperativas-SALUD.pdf"
+    }
+  ],
+  "recetas": [
+    {
+      "id": 1,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 1,
+      "tipo": "platillo",
+      "nombre": "Ensalada de pasta",
+      "ingredientes": [
+        "½ bolsa de codito chico (bolsa de 200 gr)",
+        "1 tza de garbanzos cocidos, picados",
+        "1 tza de pepino pelado y picado",
+        "1 tza de zanahoria rallada",
+        "½ tza de crema ácida",
+        "2 cdas de mostaza amarilla",
+        "¼ cdta de orégano seco",
+        "1 pizca de sal",
+        "1 pizca de pimienta negra"
+      ],
+      "preparacion": [
+        "Remojar los garbanzos y cocerlos en una olla con agua y una pizca de sal",
+        "Cocinar la pasta en una olla con abundante agua hirviendo con un poco de sal",
+        "Cocinar hasta que esté al dente (cuando se siente cierta resistencia o firmeza al ser mordida)",
+        "Colar la pasta y enfriar un poco con agua",
+        "Picar los garbanzos cocidos finamente",
+        "Pelar el pepino, retirar las semillas y cortar en cubitos",
+        "Pelar y rallar la zanahoria",
+        "En un tazón grande mezclar la crema ácida, mostaza, orégano seco, sal y pimienta",
+        "Agregar 1 cucharada de agua para hacer más ligera la mezcla",
+        "Cuando esté mezclado el aderezo, agregar la pasta fría o tibia, los vegetales y los garbanzos picados",
+        "Mezclar, rectificar y ajustar la sazón",
+        "Si se quiere dar un toque de acidez, agregar un poco de jugo de limón"
+      ]
+    },
+    {
+      "id": 2,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 2,
+      "tipo": "platillo",
+      "nombre": "Esquites con coliflor",
+      "ingredientes": [
+        "5 elotes",
+        "5 tzas de coliflor picada finamente",
+        "2 ¼ cdas de mantequilla",
+        "5 cdas de queso de la región",
+        "Limón, al gusto",
+        "Chile en polvo, al gusto",
+        "1 pizca de sal y pimienta"
+      ],
+      "preparacion": [
+        "Limpiar los elotes y cocinar en abundante agua hirviendo tapados hasta que estén suaves",
+        "Cortar la coliflor en trozos del mismo tamaño que los granos de elote",
+        "Cuando los elotes estén suaves, desgranar",
+        "Cocinar los trocitos de coliflor en agua hirviendo por 5 minutos, se deben de sentir suaves al morderlos",
+        "Derretir la mantequilla en una olla y agregar los elotes y coliflor cocidos",
+        "Sazonar con 1 pizca de sal y pimienta, mezclar muy bien para que se cubran con el sabor de la mantequilla",
+        "Se sugiere guisar con un poco de epazote",
+        "Cada porción será de 1 taza en total de los esquites",
+        "Servir con ½ cucharada de queso de la región, chile en polvo y jugo de limón"
+      ]
+    },
+    {
+      "id": 3,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 3,
+      "tipo": "platillo",
+      "nombre": "Chorizo casero de nopales",
+      "ingredientes": [
+        "4 tzas de nopales picados",
+        "2 dientes de ajo, pelados",
+        "2 chiles guajillo",
+        "2 chiles pasilla",
+        "¼ tza de vinagre blanco o de manzana",
+        "¼ tza de agua de cocción de los chiles",
+        "½ cdta de comino molido",
+        "½ cdta de orégano seco",
+        "1 pizca de sal y pimienta negra"
+      ],
+      "preparacion": [
+        "Colocar los nopales en un sartén y cocinar a fuego alto por unos 4 a 6 minutos mezclando de vez en cuando",
+        "Retirar el rabito y semillas de los chiles",
+        "Colocarlos en agua hirviendo con el ajo pelado y cocinar por 3 a 5 minutos a fuego bajo",
+        "Retirar del agua y licuar con el ajo, comino, orégano, vinagre, sal, pimienta y el agua donde se hidrataron los chiles",
+        "Agregar la mezcla del chile de la licuadora a los nopales y cocinar a fuego bajo unos 2 a 4 minutos",
+        "Probar y sazonar de nuevo, si está muy ácido o picoso, agregar un poco de agua",
+        "Tener cuidado de no quemarlo",
+        "Guardar en un recipiente con tapa",
+        "Dura bien 1 semana en el refrigerador",
+        "También se pueden congelar en pequeños recipientes o en una bolsa con cierre, dura bien de 2 a 3 meses"
+      ]
+    },
+    {
+      "id": 4,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 4,
+      "tipo": "platillo",
+      "nombre": "Taquitos de deshebrada",
+      "ingredientes": [
+        "2 tortillas de maíz",
+        "½ tza de carne de res cocida",
+        "¼ tza de cebolla blanca finamente picada",
+        "⅛ tza de jitomate",
+        "1 cdta de aceite",
+        "Una pizca de sal",
+        "⅛ tza de frijoles refritos, caseros",
+        "¼ tza de col (repollo)",
+        "¼ tza de zanahoria",
+        "Cilantro"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los vegetales",
+        "Rallar la zanahoria y la col",
+        "Picar finamente el cilantro y revolver con la zanahoria y la col",
+        "Deshebrar la carne de res",
+        "Picar el jitomate y la cebolla",
+        "Sofreír la cebolla y el jitomate en el aceite, agregar la carne de res deshebrada y sazonar",
+        "Calentar las tortillas en un comal, untar con los frijoles y agregar la carne",
+        "Se puede acompañar con la ensalada de col y zanahoria"
+      ]
+    },
+    {
+      "id": 5,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 5,
+      "tipo": "platillo",
+      "nombre": "Nopales rellenos con queso panela",
+      "ingredientes": [
+        "2 piezas de nopal crudo",
+        "Una rebanada de queso panela (30 - 40 gr)",
+        "¼ tza de arroz cocido con zanahorias y chícharos",
+        "⅓ de pieza de aguacate",
+        "¼ tza frijol promedio cocido",
+        "1 pieza de tortilla de maíz"
+      ],
+      "preparacion": [
+        "Lavar los nopales",
+        "Cortar el queso del mismo tamaño del nopal",
+        "Secar los nopales con papel absorbente",
+        "Asar al comal o sartén cada uno de los nopales por ambos lados, colocar el queso entre dos nopales y dejarlos un momento más al fuego",
+        "Servir en un plato el nopal relleno de queso panela, aguacate, tortilla de maíz y frijoles de la olla",
+        "Se puede servir como complemento arroz blanco con chícharo y zanahoria"
+      ]
+    },
+    {
+      "id": 6,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 6,
+      "tipo": "platillo",
+      "nombre": "Tinga verde de pollo con xoconostle",
+      "ingredientes": [
+        "¼ tza de chile poblano",
+        "¼ tza de pechuga de pollo cocido",
+        "½ tza lechuga",
+        "½ pieza de jitomate",
+        "¼ tza de cebolla morada",
+        "1 limón",
+        "3 piezas de tomate verde",
+        "2 piezas de tostada de maíz horneada",
+        "¼ tza de xoconostle",
+        "Cilantro",
+        "½ cdta de aceite de oliva"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar las verduras",
+        "Asar el chile poblano en un sartén (previamente cortado en rajas)",
+        "Deshebrar el pollo",
+        "Cortar a media luna la cebolla, agregar el jugo de limón y el tomate picado en cuadritos",
+        "Incorporar las rajas asadas, la carne de pollo deshebrada, una pizca de sal, el cilantro y el xoconostle (previamente picados)",
+        "Revolver uniformemente",
+        "Aderezar con aceite de oliva",
+        "Colocar en el plato las tostadas y agregar la tinga",
+        "Acompañar con la lechuga y el jitomate"
+      ]
+    },
+    {
+      "id": 7,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 7,
+      "tipo": "platillo",
+      "nombre": "Ensalada de manzana a la crema",
+      "ingredientes": [
+        "5 pzas de manzana mediana",
+        "1 ¼ tza de zanahoria rallada",
+        "1 ¼ tza de yogurt natural sin azúcar",
+        "½ tza de arándanos secos",
+        "½ tza de coco seco rallado",
+        "1 cda vainilla"
+      ],
+      "preparacion": [
+        "Cortar la manzana en cubitos, dejar la cáscara",
+        "Pelar y rallar la zanahoria",
+        "Mezclar la manzana con el yogurt para que no se oxide",
+        "Agregar la zanahoria, arándanos, coco, vainilla y mezclar bien",
+        "Servir en vasitos"
+      ]
+    },
+    {
+      "id": 8,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 8,
+      "tipo": "platillo",
+      "nombre": "Chalupas coletas saludables",
+      "ingredientes": [
+        "10 tostadas horneadas",
+        "2 zanahorias",
+        "1 betabel",
+        "½ lechuga",
+        "1 tza de frijoles a la olla",
+        "1 tza de queso fresco rallado",
+        "2 tzas de pollo deshebrado",
+        "2 clavos de olor",
+        "100 ml de vinagre",
+        "2 ramitas de tomillo",
+        "1 pizca de orégano",
+        "1 pizca de sal",
+        "Pimienta al gusto"
+      ],
+      "preparacion": [
+        "Licuar los frijoles y calentar en un sartén",
+        "Desinfectar y cortar la lechuga",
+        "Rallar el betabel y la zanahoria",
+        "Calentar una taza de agua con sal, orégano, pimienta, tomillo y un poco de vinagre y cocer la verdura por 10 minutos",
+        "Untar las tostadas con los frijoles, colocar pollo deshebrado y agregar la lechuga, la zanahoria, betabel y queso"
+      ]
+    },
+    {
+      "id": 9,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 9,
+      "tipo": "platillo",
+      "nombre": "Ejotes con papa",
+      "ingredientes": [
+        "3 tzas de ejotes",
+        "½ pieza de cebolla",
+        "4 cdtas de aceite",
+        "2 tzas de frijoles cocidos",
+        "1 pieza de tomate",
+        "2 piezas de papa pelada y cocida",
+        "1 diente de ajo",
+        "½ cdta de pimienta"
+      ],
+      "preparacion": [
+        "Poner en un sartén el aceite, freír los ejotes por 3 minutos junto con el ajo",
+        "Agregar la papa y continuar la cocción hasta que tome un ligero color dorado",
+        "Incorporar el tomate en cubos y la sal, cocinar durante 5 min",
+        "Acompañar con frijoles y tortillas"
+      ]
+    },
+    {
+      "id": 10,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 10,
+      "tipo": "platillo",
+      "nombre": "Ceviche vallartense",
+      "ingredientes": [
+        "⅓ filete de pescado molido",
+        "⅓ pieza de jitomate",
+        "Cilantro al gusto",
+        "1 cda de zanahoria rallada",
+        "½ tza de pepino",
+        "1 cda de cebolla",
+        "Ajo, pimienta y chile serrano al gusto",
+        "1 limón",
+        "Una pizca de sal",
+        "1 pieza de tostada horneada"
+      ],
+      "preparacion": [
+        "Poner en un recipiente el pescado molido",
+        "Agregar la mitad del jugo de limón, la zanahoria rallada, sal y pimienta al gusto",
+        "Dejar reposar en el refrigerador por 1 hora",
+        "Picar jitomate, cebolla, pepino y cilantro finamente",
+        "Colar el pescado, e incorporar las verduras",
+        "Agregar el resto del jugo de limón y los dientes de ajo finamente picados",
+        "Mezclar bien y servir en tostadas"
+      ]
+    },
+    {
+      "id": 11,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 11,
+      "tipo": "platillo",
+      "nombre": "Dobladas de flor de calabaza",
+      "ingredientes": [
+        "½ tza de flor de calabaza",
+        "2 piezas de tortillas de maíz",
+        "¼ pieza de jitomate",
+        "2 cdas de cebolla",
+        "Ajo y epazote al gusto",
+        "Chile poblano al gusto",
+        "3 cdas de queso ranchero desmoronado"
+      ],
+      "preparacion": [
+        "Quitar el tallo y el pistilo a las flores de calabaza, lavar y escurrir",
+        "Asar y desvenar los chiles",
+        "Picar el jitomate y la cebolla",
+        "Calentar un poco de aceite y freír la cebolla, el jitomate, el epazote, las flores, así como el chile y cocinar durante 5 minutos",
+        "Sazonar al gusto",
+        "Agregar el queso y servir en forma de doblada"
+      ]
+    },
+    {
+      "id": 12,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 12,
+      "tipo": "platillo",
+      "nombre": "Bistec ranchero con ensalada de pepino",
+      "ingredientes": [
+        "⅓ pieza de bistec",
+        "1 tza de jitomate picado",
+        "½ tza pepino rebanado",
+        "1 cda de cebolla",
+        "Ajo, chile y pimienta al gusto",
+        "Una pizca de sal",
+        "1 cdta de aceite",
+        "2 piezas de tortilla de maíz"
+      ],
+      "preparacion": [
+        "Sazonar previamente el bistec con sal y asar en un comal",
+        "Freír la cebolla hasta que esté transparente, agregar el jitomate, chile picado y sazonar con sal y pimienta",
+        "Añadir el bistec a la salsa y dejar cocer a fuego lento unos momentos para que se mezclen los sabores",
+        "Servir acompañado de ensalada de pepinos"
+      ]
+    },
+    {
+      "id": 13,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 13,
+      "tipo": "platillo",
+      "nombre": "Tlayuda con nopales",
+      "ingredientes": [
+        "3 cdas de harina de maíz",
+        "⅗ tza de nopales picados cocidos",
+        "¼ tza de frijoles cocidos y machacados",
+        "½ tza de lechuga/col",
+        "¼ tza de queso oaxaca",
+        "Una pizca de sal"
+      ],
+      "preparacion": [
+        "Amasar la harina para elaborar las tlayudas con la cantidad de agua necesaria y un poco de sal",
+        "Extender la masa y formar la tlayuda, siendo esta una tortilla de aproximadamente 40 cm de diámetro",
+        "Poner a cocer al comal y dejar semi-tostar",
+        "Colocar sobre ella los frijoles, los nopales, la lechuga o col y el queso"
+      ]
+    },
+    {
+      "id": 14,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 14,
+      "tipo": "platillo",
+      "nombre": "Tacos de chilorio",
+      "ingredientes": [
+        "2 trozos de espaldilla de cerdo",
+        "Chile pasilla y pimienta al gusto",
+        "Ajo, comino y orégano al gusto",
+        "Una pizca de sal",
+        "1 cdta de aceite",
+        "Vinagre y chile verde al gusto",
+        "⅓ pza de aguacate",
+        "1 tza de col picada",
+        "2 pzas de tortilla de maíz",
+        "2 cdas de cebolla picada",
+        "Limón al gusto"
+      ],
+      "preparacion": [
+        "Cocer la carne, escurrirla, enfriarla y deshebrarla",
+        "Cocer el chile pasilla y licuarlo con el agua de su cocción junto con el ajo, comino, orégano, pimienta y vinagre hasta formar una salsa",
+        "En una cacerola, calentar el aceite, agregar la carne y la salsa",
+        "Sazonar",
+        "En un recipiente machacar el aguacate, agregar chile verde picado, cebolla, sal y mezclar, agregar unas gotas de limón",
+        "Servir el chilorio en tortillas de maíz y acompañar con guacamole y ensalada de col"
+      ]
+    },
+    {
+      "id": 15,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 15,
+      "tipo": "platillo",
+      "nombre": "Machaca con verduras",
+      "ingredientes": [
+        "1 cda de carne machaca",
+        "½ tza de zanahoria picada",
+        "1 tza de jitomate picado",
+        "3 cdas de cebolla picada",
+        "Ajo y chile verde al gusto",
+        "¼ tza papas picadas",
+        "Pimienta al gusto",
+        "1 cdta de aceite",
+        "Una pizca de sal"
+      ],
+      "preparacion": [
+        "Cocer las papas y zanahorias",
+        "Asar y picar el chile",
+        "Una vez que las papas y zanahorias estén cocidas, agregar la carne machaca, el ajo y la cebolla, dejar freír un poco",
+        "Agregar el jitomate, el chile, sal y la pimienta al gusto",
+        "Bajar el fuego y sazonar"
+      ]
+    },
+    {
+      "id": 16,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 16,
+      "tipo": "platillo",
+      "nombre": "Pollo al cilantro",
+      "ingredientes": [
+        "1 bistec de pechuga de pollo (90 gr)",
+        "2 cdas de cebolla",
+        "Cilantro al gusto",
+        "Una pizca de sal",
+        "Ajo y pimienta al gusto",
+        "1 cdta de aceite",
+        "1 tza de zanahoria rallada"
+      ],
+      "preparacion": [
+        "Sazonar la pechuga con sal y pimienta por ambos lados",
+        "Poner en un recipiente el aceite, cilantro, cebolla y los ajos picados, mezclar y colocar en la pechuga por ambos lados",
+        "Meter la pechuga en una bolsa que se pueda cerrar para que se marine por media hora",
+        "Ya que pasó el tiempo, ponerla en un sartén y cocer",
+        "Acompañar con zanahoria rallada"
+      ]
+    },
+    {
+      "id": 17,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 17,
+      "tipo": "platillo",
+      "nombre": "Guayin",
+      "ingredientes": [
+        "1 pza de huevo",
+        "½ tza de frijoles",
+        "½ pza de jitomate picado",
+        "2 cdas de cebolla picada",
+        "Chile verde y ajo al gusto",
+        "½ tza de col picada",
+        "1 cdta de aceite",
+        "Una pizca de sal"
+      ],
+      "preparacion": [
+        "Cocer los frijoles en una olla con agua, cebolla, ajo y sal",
+        "Separar los frijoles del caldo, machacar y reservar",
+        "Batir el huevo completo, vaciar en un recipiente con aceite caliente, agregar los jitomates y la cebolla previamente picados",
+        "Cuando se empiece a cocer el huevo, agregar los frijoles",
+        "Guisar como tortilla",
+        "Cerrarlo a manera de taco y colocarle salsa al gusto",
+        "Acompañar con ensalada de col"
+      ]
+    },
+    {
+      "id": 18,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 18,
+      "tipo": "platillo",
+      "nombre": "Pollo con huitlacoche",
+      "ingredientes": [
+        "½ tza de huitlacoche",
+        "¼ pza de pechuga de pollo",
+        "2 cdas de cebolla",
+        "Una pizca de sal",
+        "1 cdta de aceite",
+        "Pimienta al gusto"
+      ],
+      "preparacion": [
+        "En una cacerola con aceite caliente, sofreír cebolla y ajo finamente picados, a fuego lento",
+        "Colocar el huitlacoche picado, agregar sal, cocinar hasta que se suelten los jugos",
+        "Se incorpora la pechuga de pollo y se rellena",
+        "Rociar un poco de pimienta y una pizca de sal",
+        "Se deja cocinar hasta que la pechuga y los ingredientes estén cocidos"
+      ]
+    },
+    {
+      "id": 19,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 19,
+      "tipo": "platillo",
+      "nombre": "Tostada de soya",
+      "ingredientes": [
+        "1 pza de tostada de maíz horneada",
+        "2 cdas de soya",
+        "1 pza de chile guajillo",
+        "3 rebanadas de cebolla",
+        "2 hojas de laurel",
+        "Tomillo al gusto",
+        "Mejorana al gusto",
+        "Clavo y pimienta al gusto",
+        "1 diente de ajo",
+        "1 cdta de aceite"
+      ],
+      "preparacion": [
+        "Lavar la soya y ponerla a remojar en agua caliente con hojas de laurel durante 10 min",
+        "Dejar enfriar y escurrir",
+        "En un sartén caliente con un poco de aceite, acitronar la cebolla y el ajo",
+        "Vaciar la soya y freírla durante 10 min",
+        "Licuar el chile guajillo con el ajo, tomillo, mejorana y laurel",
+        "Posteriormente, colar la mezcla sobre la soya y dejar hervir",
+        "Una vez lista, acompañar con una tostada"
+      ]
+    },
+    {
+      "id": 20,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 20,
+      "tipo": "platillo",
+      "nombre": "Tlacoyos en salsa verde",
+      "ingredientes": [
+        "½ tza de chícharos",
+        "¼ de masa",
+        "1 rebanada de cebolla cambray",
+        "½ pza de chile poblano",
+        "1 diente de ajo",
+        "Sal al gusto",
+        "Aceite al gusto",
+        "2 pzas de tomates verdes",
+        "Chile serrano al gusto",
+        "1 rama de cilantro picado",
+        "1 pza de jitomate en cubos",
+        "1 rebanada de queso panela",
+        "Pimienta al gusto"
+      ],
+      "preparacion": [
+        "Cocer los chícharos en el agua, dejar enfriar y moler hasta obtener una pasta sin grumos, reservar",
+        "Batir la masa con una pizca de sal",
+        "Formar gorditas alargadas y rellenas con la pasta de chícharos",
+        "Cerrar bien los tlacoyos y cocerlos en un comal a fuego medio",
+        "Licuar los tomates con el chile serrano y el agua",
+        "Cocer la salsa por 10 minutos, sazonar con sal y pimienta al gusto",
+        "Servir los tlacoyos con la salsa verde y añadir cilantro, jitomate picado y un poco de queso"
+      ]
+    },
+    {
+      "id": 21,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 21,
+      "tipo": "platillo",
+      "nombre": "Sopa de hongos",
+      "ingredientes": [
+        "1 ½ tzas de hongos crudos",
+        "1 cdta de mantequilla",
+        "¼ de pza de cebolla cambray",
+        "½ pza de chile poblano",
+        "1 diente de ajo",
+        "Sal al gusto",
+        "1 tza de caldo de pollo"
+      ],
+      "preparacion": [
+        "En un sartén derretir la mantequilla y sofreír la cebolla y el ajo a fuego lento hasta que estén transparentes",
+        "Agregar los hongos y poner una pizca de sal, cocer por 10 a 15 minutos",
+        "Agregar el caldo de pollo y el chile poblano",
+        "Servir caliente"
+      ]
+    },
+    {
+      "id": 22,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 22,
+      "tipo": "platillo",
+      "nombre": "Pollo a la mexicana",
+      "ingredientes": [
+        "1 tza de pechuga deshebrada",
+        "1 pza de jitomate",
+        "½ tza de zanahoria",
+        "3 ramas de cilantro",
+        "½ pza de cebolla",
+        "½ cdta de aceite de olivo",
+        "Sal al gusto",
+        "Chile serrano al gusto",
+        "½ diente de ajo picado",
+        "Pimienta al gusto",
+        "1 pieza de tortilla de maíz"
+      ],
+      "preparacion": [
+        "Poner en un recipiente aceite y agregar el pollo deshebrado",
+        "Mezclar la zanahoria rallada, jitomate, cilantro, cebolla, ajo picado, chile serrano sin semillas todo finamente picado",
+        "Sazonar con sal al gusto",
+        "Servir caliente"
+      ]
+    },
+    {
+      "id": 23,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 23,
+      "tipo": "platillo",
+      "nombre": "Sardinas con verduras",
+      "ingredientes": [
+        "1 pza de sardina en tomate",
+        "3 cdas de cebolla picada",
+        "½ pza de jitomate picado",
+        "½ tza brócoli",
+        "¼ tza de zanahoria picada",
+        "¼ tza de ejotes picados",
+        "½ tza de papa picada",
+        "½ pza de calabacita picada",
+        "1 cdita de aceite"
+      ],
+      "preparacion": [
+        "Sofreír la cebolla hasta que cambie de color, agregar el jitomate y sazonar con sal al gusto",
+        "En un recipiente desmenuzar las sardinas, agregar la cebolla con el jitomate y mezclar",
+        "Lavar perfectamente las verduras restantes y ponerlas en agua hirviendo a fuego medio durante 4 o 5 minutos",
+        "Escurrir y dejar enfriar",
+        "Mezclar las verduras con la sardina y servir"
+      ]
+    },
+    {
+      "id": 24,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 24,
+      "tipo": "platillo",
+      "nombre": "Caldo gallego",
+      "ingredientes": [
+        "¼ de tza de alubias",
+        "½ pza de calabacita",
+        "½ tza de acelgas",
+        "Ajo picado al gusto",
+        "¼ tza de papas picadas",
+        "½ pza jitomate picado",
+        "Chile ancho al gusto",
+        "1 cdta de aceite",
+        "¼ de cebolla picada",
+        "Una pizca de sal"
+      ],
+      "preparacion": [
+        "Picar las calabacitas y papas, hervirlas con sal y ajo",
+        "Freír la cebolla, el chile y el jitomate en el aceite",
+        "Agregar las alubias, las acelgas y las verduras hervidas"
+      ]
+    },
+    {
+      "id": 25,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 25,
+      "tipo": "platillo",
+      "nombre": "Bolitas de jamaica enchiladas",
+      "ingredientes": [
+        "2 tzas de flor de jamaica cocida",
+        "1 tza de arándanos secos o ciruelas",
+        "2 cdas de jugo de limón",
+        "1 cdta de chile seco en polvo"
+      ],
+      "preparacion": [
+        "Colocar la flor de jamaica en una olla con agua y cocinar por 5 minutos a fuego medio hasta que la flor se suavice",
+        "Ya lista la flor, esperar que se enfríe para poder picarla y procesarla",
+        "Si los arándanos o ciruelas están muy secos remójalos por 2 minutos en agua hirviendo",
+        "Una vez bien hidratados, escúrrelos perfectamente",
+        "Cuela la flor de jamaica (puedes apartar el agua y utilizarla después) y llévala a un procesador de alimentos, para que se vaya picando",
+        "Agrega los arándanos, jugo de limón y chile en polvo, e integra de nuevo para que se forme una pasta",
+        "Ya integrados todos los ingredientes forma bolitas pequeñas",
+        "Ya listas cubre cada bolita con chile en polvo o solo agrega un poco encima",
+        "Colócalas dentro de un recipiente con tapa en un lugar seco y fresco"
+      ]
+    },
+    {
+      "id": 26,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 26,
+      "tipo": "platillo",
+      "nombre": "Ceviche de atún",
+      "ingredientes": [
+        "⅕ de lata de atún en agua (drenado)",
+        "¼ de tza cebolla blanca finamente picada",
+        "1 tza de pepino pelado y picado",
+        "1 tza de zanahoria rallada",
+        "2 pzas medianas de jitomate picado",
+        "2 tostadas de maíz horneadas",
+        "Jugo de 1 limón",
+        "1 pizca de sal",
+        "Pimienta al gusto"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes",
+        "Mezclar en un tazón grande el atún, el jitomate, la cebolla, el pepino y la zanahoria (previamente picados)",
+        "Exprimir el limón y sazonar con pimienta y sal",
+        "Refrigerar 30 minutos y servir acompañado con tostada de maíz horneada"
+      ]
+    },
+    {
+      "id": 27,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 27,
+      "tipo": "platillo",
+      "nombre": "Tostada de pollo y verduras",
+      "ingredientes": [
+        "2 pzas de tostada horneada de maíz",
+        "90 gr de pechuga (previamente cocida) deshebrada",
+        "½ tza de brócoli",
+        "1 tza de pimiento picado",
+        "½ tza de zanahoria",
+        "½ tza de champiñón",
+        "⅓ de tza o 2 cdas de frijoles refritos (caseros)",
+        "3 tzas de lechuga",
+        "1 cdita de aceite de oliva",
+        "1 pizca de sal",
+        "2 pzas de guayaba medianas",
+        "Jugo de 1 limón (al gusto)"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar las verduras y frutas antes de su preparación",
+        "Cocer al vapor el brócoli, pimiento, zanahoria y el champiñón",
+        "Colocar los frijoles refritos sobre la tostada",
+        "Deshebrar la pechuga de pollo cocida e incorporar con los vegetales",
+        "Aderezar con el aceite de oliva y una pizca de sal",
+        "Añadir la mezcla anterior a la tostada",
+        "Ensalada: trocear la lechuga",
+        "Picar en cuadros pequeños la guayaba",
+        "Mezclar la lechuga con la guayaba y sazonar con el jugo de limón",
+        "Acompañar la tostada preparada con la ensalada de guayaba"
+      ]
+    },
+    {
+      "id": 28,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 28,
+      "tipo": "platillo",
+      "nombre": "Nopales con huevo",
+      "ingredientes": [
+        "1 tza de nopales previamente cocidos",
+        "2 pzas de huevo fresco",
+        "1 diente de ajo",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 cdita de aceite",
+        "2 pzas de tortilla de maíz",
+        "⅓ de tza o 2 cdas de frijoles refritos (caseros)",
+        "1 pizca de sal y pimienta"
+      ],
+      "preparacion": [
+        "Cocer los nopales en una olla con suficiente agua, previamente cortados en cubos. Una vez cocidos, escurrir",
+        "Picar finamente el ajo y la cebolla",
+        "Calentar un sartén y agregar el aceite vegetal, guisar el ajo y la cebolla",
+        "Agregar los nopales al sartén, mezclar y sazonar",
+        "Batir los huevos en un plato hondo, salpimentar y agregar al sartén donde están los nopales",
+        "Mezclar hasta que el huevo esté bien cocido",
+        "Servir en un plato, acompañado de frijoles molidos y tortilla de maíz"
+      ]
+    },
+    {
+      "id": 29,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 29,
+      "tipo": "platillo",
+      "nombre": "Ensalada de lentejas",
+      "ingredientes": [
+        "¾ de tza de lenteja previamente cocida",
+        "3 tzas de lechuga fileteada",
+        "½ tza de zanahoria rallada",
+        "¼ de tza de chícharo",
+        "2 tostadas de maíz horneadas",
+        "Jugo de 1 limón",
+        "1 pizca de sal",
+        "Pimienta al gusto",
+        "1 cdita de aceite de oliva"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes",
+        "Cocer el chícharo y la zanahoria",
+        "Vaciar las lentejas en un tazón grande",
+        "Añadir todas las verduras a las lentejas junto con el limón, sal y pimienta al gusto",
+        "Picar la zanahoria y la lechuga y aderezar con aceite de oliva",
+        "Revolver y servir"
+      ]
+    },
+    {
+      "id": 30,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 30,
+      "tipo": "platillo",
+      "nombre": "Tostadas de machaca de pescado",
+      "ingredientes": [
+        "1 filete de pescado (90-110 gr)",
+        "½ pza de chile poblano picado",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 diente de ajo",
+        "2 pzas medianas de jitomate picado en cuadritos",
+        "1 cdita de aceite",
+        "⅓ de tza o 2 cdas de frijoles refritos (caseros)",
+        "3 tzas de lechuga",
+        "1 tza de pepino con cáscara",
+        "½ tza de zanahoria rallada",
+        "2 pzas de tostada horneada de maíz",
+        "1 pizca de sal",
+        "Pimienta y orégano (al gusto)",
+        "⅓ de tza de arroz al vapor"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar las verduras",
+        "Cortar en cubos pequeños la cebolla, el jitomate, el chile poblano y picar finamente el ajo",
+        "Poner el aceite vegetal en un sartén caliente y sofreír la cebolla, el jitomate, el chile poblano y el ajo",
+        "Agregar el filete de pescado y dorar por ambos lados, una vez cocido, desmenuzar el pescado y salpimentar, agregar el orégano",
+        "Picar la lechuga, rallar el pepino y la zanahoria y reservar",
+        "Untar el frijol a las tostadas de maíz, agregar la machaca de pescado y encima añadir la lechuga, pepino y zanahoria",
+        "Servir acompañado de arroz al vapor"
+      ]
+    },
+    {
+      "id": 31,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 31,
+      "tipo": "platillo",
+      "nombre": "Gorditas con frijoles",
+      "ingredientes": [
+        "2 ½ cda de harina de maíz",
+        "⅓ de tza o 2 cdas de frijoles refritos (caseros)",
+        "1 tza de agua simple potable",
+        "90 gr de pechuga de pollo cocida deshebrada",
+        "3 tzas de lechuga",
+        "1 tza de pepino con cáscara y picado",
+        "⅓ de pza aguacate hass"
+      ],
+      "preparacion": [
+        "Colocar la harina de maíz en un recipiente",
+        "Agregar agua poco a poco, y al mismo tiempo, amasar hasta que tenga una consistencia suave y que no se pegue en las manos",
+        "Tomar porciones para formar una bolita y aplanar hasta formar la gordita",
+        "Cocer la gordita sobre un comal caliente y ya cocida, abrir a la mitad (no completamente) y reservar",
+        "Deshebrar el pollo",
+        "Rellenar la gordita con los frijoles y el pollo",
+        "Para la ensalada: lavar, desinfectar y picar la lechuga finamente",
+        "Lavar y rallar el pepino",
+        "Mezclar la lechuga y el pepino",
+        "Servir las gorditas junto con la ensalada de pepino y el aguacate"
+      ]
+    },
+    {
+      "id": 32,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 32,
+      "tipo": "platillo",
+      "nombre": "Quesadilla de alverjón",
+      "ingredientes": [
+        "¼ de tza alverjón o chícharo cocido",
+        "1 pizca de sal",
+        "1 tza de nopales picados, cocidos",
+        "1 ramita de epazote picado finamente",
+        "30 gr de queso panela",
+        "1 cdita de aceite de girasol",
+        "2 pzas de tortilla de maíz"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar previamente los ingredientes que lo requieran",
+        "Picar y cocer el nopal, sazonar con sal",
+        "Guisar el nopal con cebolla y los cubos de queso panela",
+        "Formar la quesadilla con la tortilla de maíz y el alverjón",
+        "Añadir a la quesadilla el epazote y dorar un poco con el aceite",
+        "Servir con los nopales con queso"
+      ]
+    },
+    {
+      "id": 33,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 33,
+      "tipo": "platillo",
+      "nombre": "Sopa de chipilín (con bolitas de masa)",
+      "ingredientes": [
+        "2 tzas de hojas de chipilín",
+        "¼ de tza de cebolla blanca finamente picada",
+        "2 pzas medianas de jitomate",
+        "1 diente de ajo finamente picado",
+        "⅓ de tza o 2 cdas de frijoles refritos (caseros)",
+        "30 gr de queso fresco",
+        "2 ½ cda de harina de maíz",
+        "1 cdita de aceite",
+        "1 pizca de sal"
+      ],
+      "preparacion": [
+        "Deshojar las hojas de chipilín de las varas, lavar y desinfectar",
+        "Hacer 2 porciones por separado de las hojas (una es para el caldo de chipilín y otra para agregarle a la masa para las bolitas)",
+        "Preparar la masa con harina de maíz de acuerdo con las instrucciones del producto",
+        "Agregar a la masa la primera porción de las hojas de chipilín y sal, revolver bien con la masa, hacer las bolitas de tamaño pequeño y rellenar de queso fresco. Reservar",
+        "Hervir la segunda porción de hojas de chipilín en un recipiente, para hacer un caldo",
+        "Cortar finamente la cebolla, el jitomate, el ajo y agregar al recipiente que contiene el chipilín hirviendo",
+        "Agregar al caldo de chipilín hirviendo, las bolitas de masa",
+        "Cocer por 20 minutos y retirar del fuego",
+        "Se puede acompañar con frijoles de la olla"
+      ]
+    },
+    {
+      "id": 34,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 34,
+      "tipo": "platillo",
+      "nombre": "Huevo con amaranto, rajas y elotes",
+      "ingredientes": [
+        "2 pzas de huevo",
+        "¼ de tza de amaranto tostado",
+        "1 pza de chile jalapeño",
+        "½ tza de ejotes cocidos picados",
+        "2 pzas de tortilla de maíz",
+        "1 cdita de aceite",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 pizca de sal"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes necesarios",
+        "Cortar el chile en rajas (con o sin semilla)",
+        "Picar y cocer los ejotes",
+        "Calentar el aceite, cortar la cebolla en rodajas y añadirla al aceite",
+        "Una vez que esté transparente, agregar las rajas y cocinarlas hasta que estén crujientes",
+        "Agregar los ejotes y sazonar",
+        "Añadir el huevo y mover constantemente. Ya que casi esté cocido, verter el amaranto",
+        "Dejar cocer y acompañar con tortilla de maíz"
+      ]
+    },
+    {
+      "id": 35,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 35,
+      "tipo": "platillo",
+      "nombre": "Gorditas de maíz rellenas de cortadillo de res con frijoles",
+      "ingredientes": [
+        "2 ½ cda de harina de maíz",
+        "1 ½ tza agua tibia",
+        "⅓ de tza de frijoles refritos (2 cucharadas)",
+        "1 cdita de aceite",
+        "90 gr de carne de res (cortadillo, puntas de res o filete de res)",
+        "2 pzas medianas de jitomate",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 diente de ajo, finamente picado",
+        "Comino, orégano, pimienta al gusto",
+        "1 pizca de sal"
+      ],
+      "preparacion": [
+        "Mezclar en un recipiente mediano la harina de maíz nixtamalizado, agregar el agua poco a poco y amasar hasta que quede suave",
+        "Formar gorditas con ayuda de un rodillo o prensa para tortillas",
+        "Cocer la gordita sobre un comal previamente caliente y con un cuchillo, hacer una abertura en la orilla para agregar el guiso",
+        "Cortar la carne en trozos pequeños y vaciar en una cacerola con el aceite caliente y rebanadas de cebolla mezclando hasta su cocimiento a fuego lento",
+        "Licuar el jitomate, ajo, comino, orégano, y pimienta con un poco de agua hasta obtener la salsa de tomate",
+        "Vaciar la salsa a la carne dejando hervir a fuego bajo de 5 a 10 minutos",
+        "Cuando la carne esté cocida y blanda, servir las gorditas de maíz rellenas de cortadillo de res",
+        "Acompañar con frijoles molidos"
+      ]
+    },
+    {
+      "id": 36,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 36,
+      "tipo": "platillo",
+      "nombre": "Quesadillas de flor de calabaza con queso y huitlacoche a la mexicana",
+      "ingredientes": [
+        "2 pzas de tortilla de maíz",
+        "60 gr queso fresco",
+        "1 tza de flor de calabaza previamente cocida",
+        "⅓ de tza de huitlacoche cocido",
+        "2 pzas medianas de jitomate",
+        "¼ de tza de cebolla blanca",
+        "1 ramita de cilantro",
+        "1 cdita de aceite",
+        "1 pizca de sal"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes",
+        "Picar todo finamente, sofreír con el aceite y sazonar",
+        "Rellenar las tortillas con flor de calabaza y el queso",
+        "Doblar las tortillas y calentar las quesadillas hasta que el queso se funda",
+        "Agregar el huitlacoche a la quesadilla"
+      ]
+    },
+    {
+      "id": 37,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 37,
+      "tipo": "platillo",
+      "nombre": "Ensalada de atún",
+      "ingredientes": [
+        "½ lata de atún en agua drenado",
+        "½ tza de zanahoria",
+        "2 pzas medianas de jitomate",
+        "3 tzas de lechuga fileteada",
+        "1 tza de apio crudo",
+        "Jugo de 1 limón",
+        "Pimienta al gusto",
+        "Mayonesa",
+        "Galleta integral"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los vegetales",
+        "Lavar el exterior de la lata, abrirla y drenar su contenido en un recipiente",
+        "Cortar el apio y la lechuga, así como el jitomate en pequeños cuadros, pelar y rallar la zanahoria",
+        "Agregar la verdura en el recipiente con el atún",
+        "Agregar la mayonesa, el jugo de limón y la pimienta a los ingredientes y revolver",
+        "Servir con las galletas integrales"
+      ]
+    },
+    {
+      "id": 38,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 38,
+      "tipo": "platillo",
+      "nombre": "Sopecitos",
+      "ingredientes": [
+        "2 ½ cda de harina de maíz",
+        "1 ½ tza agua tibia",
+        "¼ de tza de cebolla blanca finamente picada",
+        "2 jitomates medianos para salsa",
+        "1 diente de ajo",
+        "½ de tza de cebolla blanca finamente picada",
+        "3 tzas de lechuga fileteada",
+        "2 jitomates medianos en cuadritos para servir",
+        "Cebolla blanca rebanada para servir",
+        "⅓ de pza de aguacate hass"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar previamente los vegetales",
+        "Mezclar la harina previamente mezclada con agua",
+        "Formar sopes con ayuda de la harina, cocinar en un comal caliente y pellizcar alrededor para formar bordes",
+        "Cocer el jitomate con la cebolla y el ajo y licuar",
+        "Untar los frijoles a los sopes",
+        "Agregar la lechuga, el jitomate y la cebolla rebanados y bañarlos con la salsa de jitomate",
+        "Acompañar con crema y aguacate"
+      ]
+    },
+    {
+      "id": 39,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 39,
+      "tipo": "platillo",
+      "nombre": "Frijoles con verduras",
+      "ingredientes": [
+        "½ tza de frijol cocido",
+        "2 pzas medianas de jitomate",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 pza de chile jalapeño",
+        "2 pzas de tortilla de maíz",
+        "1 pizca de sal",
+        "Pimienta",
+        "⅓ de pza aguacate hass"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los vegetales",
+        "Cortar finamente el jitomate, la cebolla y el chile",
+        "Revolver el jitomate, la cebolla y el chile y sazonar",
+        "Servir en un plato hondo los frijoles y agregar pico de gallo y el aguacate",
+        "Acompañar con tortilla de maíz"
+      ]
+    },
+    {
+      "id": 40,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 40,
+      "tipo": "platillo",
+      "nombre": "Sopes con picadillo de res",
+      "ingredientes": [
+        "2 ½ cda de harina de maíz",
+        "1 ½ tza agua tibia",
+        "90 gr de carne molida de res",
+        "2 pzas medianas de jitomates para el picadillo",
+        "1 pza de chile chipotle (al gusto)",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 cdita de aceite",
+        "⅓ de tza o 2 cdas de frijoles refritos (caseros)",
+        "1 pizca de sal",
+        "Pimienta (al gusto)"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar previamente los vegetales",
+        "Picar la cebolla, el chile jalapeño, el jitomate",
+        "Colocar el aceite en una sartén, una vez caliente agregar la carne molida, cebolla, chile jalapeño, jitomate y sazonar",
+        "Cocinar a fuego alto hasta que la carne esté cocida. La carne deberá obtener un ligero tono dorado",
+        "Sopes: amasar la harina de maíz con un poco de agua tibia hasta que quede suave y húmeda",
+        "Hacer bolitas pequeñas y colocar en la prensa de tortillas hasta que quede en forma de gordita",
+        "Colocar cada gordita en el comal precalentado a fuego medio-bajo",
+        "Una vez afuera, con los dedos pellizcar cada una la orilla para dar la forma de sope y reservar",
+        "Colocar los frijoles en el sope",
+        "Agregar el picadillo",
+        "Se puede acompañar con ensalada"
+      ]
+    },
+    {
+      "id": 41,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 41,
+      "tipo": "platillo",
+      "nombre": "Quesadilla de requesón con flor de calabaza",
+      "ingredientes": [
+        "3 pzas de tortilla de maíz",
+        "3 ½ cdas de requesón",
+        "1 tza de flor de calabaza previamente cocida",
+        "1 ramita de epazote finamente picado",
+        "3 tzas de lechuga",
+        "2 tzas de espinaca",
+        "½ tza de zanahoria rallada",
+        "½ tza de jícama rallada"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar las frutas y verduras",
+        "Juntar la zanahoria y la jícama (previamente ralladas), la lechuga y espinaca para formar una ensalada",
+        "Mantener en un tazón la flor de calabaza (previamente cocida)",
+        "Poner el requesón, la flor de calabaza y el epazote sobre la tortilla",
+        "Cocer un minuto por cada lado en el comal precalentado y retirar del fuego",
+        "Servir y acompañar con la ensalada"
+      ]
+    },
+    {
+      "id": 42,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 42,
+      "tipo": "platillo",
+      "nombre": "Frijoles de la olla con nopales a la mexicana",
+      "ingredientes": [
+        "½ tza de frijoles bayos enteros (previamente cocidos)",
+        "2 pzas medianas de jitomate",
+        "1 pizca de sal",
+        "Para los nopales: ¼ de tza de cebolla blanca finamente picada",
+        "1 rama de cilantro finamente picado",
+        "1 tza de nopales cocidos",
+        "2 pzas de tortilla de maíz",
+        "⅓ de pza aguacate hass"
+      ],
+      "preparacion": [
+        "Picar el jitomate, la cebolla y el cilantro, mezclar con los nopales. Sazonar",
+        "Servir los frijoles cocidos en un plato hondo y acompañarlos con los nopales a la mexicana",
+        "Acompañar con tortilla de maíz"
+      ]
+    },
+    {
+      "id": 43,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 43,
+      "tipo": "platillo",
+      "nombre": "Rollitos de espinaca con arroz y carne molida",
+      "ingredientes": [
+        "½ tza de arroz cocido al vapor",
+        "90 gr de carne molida de res",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 diente de ajo finamente picado",
+        "2 tzas de hojas de espinaca (enteras)",
+        "½ tza de zanahoria en cuadritos",
+        "¼ de tza de chícharo",
+        "1 cdita de aceite",
+        "1 pizca de sal"
+      ],
+      "preparacion": [
+        "Lavar, desinfectar y picar los vegetales",
+        "Calentar el aceite en un sartén y sofreír la cebolla con el ajo",
+        "Incorporar la carne molida",
+        "Agregar las verduras, sazonar y dejar cocer",
+        "Pasar por agua caliente cada hoja de espinaca y sacarlas",
+        "Colocar en un plato la espinaca, agregar una porción de arroz y carne molida",
+        "Enrollar y servir"
+      ]
+    },
+    {
+      "id": 44,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 44,
+      "tipo": "platillo",
+      "nombre": "Enfrijoladas rellenas de calabazas",
+      "ingredientes": [
+        "3 pzas de tortilla de maíz",
+        "⅓ de tza de frijoles refritos (2 cucharadas)",
+        "1 pizca de sal",
+        "2 tzas de calabazas en cuadritos",
+        "¼ de tza de cebolla blanca finamente picada",
+        "1 cdita de aceite",
+        "30 gr de queso fresco"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes necesarios",
+        "Cocer los frijoles",
+        "Sofreír los frijoles con la mitad del aceite y licuar con el mismo caldo donde se cocieron",
+        "Picar la cebolla y la calabaza",
+        "Sofreír la cebolla con el resto del aceite y agregar las calabazas, sazonar y reservar",
+        "Calentar las tortillas",
+        "Remojar las tortillas en los frijoles licuados y servir rellenando con las calabazas, doblando por la mitad",
+        "Acompañar con queso fresco"
+      ]
+    },
+    {
+      "id": 45,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 45,
+      "tipo": "platillo",
+      "nombre": "Huarache de nopal",
+      "ingredientes": [
+        "2 pzas medianas de nopal (entero)",
+        "3 tzas de lechuga (previamente lavada y desinfectada)",
+        "¼ de tza de cebolla blanca finamente picada",
+        "2 pzas medianas de jitomate picado",
+        "60 gr queso panela (2 rebanadas de 30 gr cada una)",
+        "⅓ de tza de frijoles refritos (2 cucharadas)",
+        "⅓ de pza de aguacate",
+        "1 pizca de sal",
+        "Pimienta al gusto",
+        "2 pzas de tostada horneada de maíz"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes",
+        "Picar la lechuga, el jitomate y la cebolla",
+        "Asar el nopal en un comal, sazonar con sal y pimienta",
+        "Untar frijoles al nopal",
+        "Agregar lechuga, jitomate, la cebolla y queso panela",
+        "Acompañar con aguacate y tostada horneada"
+      ]
+    },
+    {
+      "id": 46,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 46,
+      "tipo": "platillo",
+      "nombre": "Calabacitas rellenas",
+      "ingredientes": [
+        "2 pzas medianas de calabaza (alargada)",
+        "½ lata de atún en agua drenado",
+        "1 diente de ajo picado",
+        "2 pzas medianas de jitomate",
+        "1 pizca de sal y pimienta",
+        "¼ de cebolla finamente picada",
+        "½ tza de brócoli",
+        "⅓ de tza de arroz",
+        "1 tza de coliflor",
+        "1 tortilla de maíz",
+        "1 cdita de aceite"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar los ingredientes",
+        "Licuar el jitomate con la cebolla y el ajo, sofreír y sazonar",
+        "Hervir el caldillo con agua",
+        "Ahuecar las calabacitas",
+        "Cocer el arroz al vapor",
+        "Mezclar el arroz con el atún en un tazón",
+        "Rellenar las calabacitas con el arroz, atún y el resto de las verduras",
+        "Poner las calabacitas en el caldillo",
+        "Dejar cocer",
+        "Acompañar con tortilla de maíz"
+      ]
+    },
+    {
+      "id": 47,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 47,
+      "tipo": "platillo",
+      "nombre": "Ensalada de nopales con pechuga de pollo",
+      "ingredientes": [
+        "⅓ de pechuga de pollo",
+        "¼ de taza de frijoles bayos",
+        "2 rebanadas de cebolla",
+        "1 diente de ajo",
+        "Sal al gusto",
+        "2 piezas de tortillas de maíz",
+        "Para la ensalada de nopales: 1 pza de jitomate",
+        "2 pzas de nopales",
+        "¼ pza de cebolla",
+        "1 diente de ajo",
+        "Sal al gusto",
+        "Orégano al gusto",
+        "Limón al gusto",
+        "Guacamole: ⅓ pza de aguacate",
+        "2 rebanadas de cebolla",
+        "1 rama de cilantro",
+        "Sal al gusto",
+        "1 pza chica de chile serrano"
+      ],
+      "preparacion": [
+        "Cocer los nopales con cebolla, ajo y sal",
+        "Escurrir y agregar el jitomate en cubos, orégano molido, sal y limón al gusto",
+        "Limpiar los frijoles (poner a remojar el día anterior), cubrirlos de agua, agregar sal, cebolla y ajo",
+        "Dejar cocer",
+        "En un sartén caliente poner a cocer la pechuga de pollo (puede ir también en fajitas)",
+        "Poner un aguacate en un recipiente y agregar el chile sin semillas ni venas, cebolla y cilantro picado",
+        "Revolver y sazonar con sal",
+        "Servir la ensalada con el pollo, frijoles cocidos, nopales y el guacamole"
+      ]
+    },
+    {
+      "id": 48,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 48,
+      "tipo": "platillo",
+      "nombre": "Sopa de nopales",
+      "ingredientes": [
+        "2 tzas de nopales",
+        "1 pza de calabaza",
+        "¼ pza de cebolla",
+        "1 diente de ajo",
+        "Sal al gusto",
+        "1 rama de perejil",
+        "1 ¼ de tza de caldo de pollo natural"
+      ],
+      "preparacion": [
+        "Lavar y cortar los nopales, moler jitomate con cebolla y sal",
+        "Calentar una olla, verter el caldillo de jitomate y dejar que se cueza",
+        "Agregar los nopales en trozos y esperar 5 minutos",
+        "Posteriormente, agregar caldo de pollo y dejar que se incorporen los sabores",
+        "Probar de sal y dejar hervir 5 minutos",
+        "Servir caliente"
+      ]
+    },
+    {
+      "id": 49,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 49,
+      "tipo": "platillo",
+      "nombre": "Frijol nuevo con chilacayote",
+      "ingredientes": [
+        "½ tza de frijol nuevo",
+        "⅓ tza de chilacayote tierno",
+        "1 cdita de aceite",
+        "Ajo al gusto",
+        "Cebolla al gusto",
+        "Epazote al gusto"
+      ],
+      "preparacion": [
+        "Tostar el frijol y dejar remojar con agua tibia por tres horas",
+        "Sazonar con aceite la cebolla picada, adicionar agua y sal",
+        "Al soltar el hervor vaciar los frijoles, una vez que estén suaves",
+        "Agregar los chilacayotes en cuadritos y epazote",
+        "Servir caliente"
+      ]
+    },
+    {
+      "id": 50,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 50,
+      "tipo": "platillo",
+      "nombre": "Torta de requesón con zanahoria rallada",
+      "ingredientes": [
+        "1 bolillo",
+        "1 tza de requesón",
+        "½ taza zanahoria rallada",
+        "Sal y pimienta al gusto",
+        "¼ aguacate"
+      ],
+      "preparacion": [
+        "Mezclar el requesón con la zanahoria rallada, sal y pimienta",
+        "Untar en el pan y poner el aguacate en rebanadas"
+      ]
+    },
+    {
+      "id": 51,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 51,
+      "tipo": "platillo",
+      "nombre": "Tortita de pollo",
+      "ingredientes": [
+        "1 bolillo sin migajón",
+        "60 gr de pechuga de pollo deshebrada",
+        "Espinaca al gusto",
+        "1 rebanada de queso panela (30 gr)",
+        "⅓ de aguacate"
+      ],
+      "preparacion": [
+        "Sobre un comal (previamente caliente) calentar el bolillo por ambos lados",
+        "Untar el aguacate, agregar el pollo, acomodar las hojas de espinaca y agregar el queso panela"
+      ]
+    },
+    {
+      "id": 52,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 52,
+      "tipo": "platillo",
+      "nombre": "Quesadillas con epazote",
+      "ingredientes": [
+        "2 piezas de tortilla de maíz",
+        "2 rebanadas de queso tipo Oaxaca",
+        "2 cdas de frijoles refritos con ramitas al gusto de epazote"
+      ],
+      "preparacion": [
+        "Calentar las tortillas en el comal",
+        "Agregar queso tipo Oaxaca y los frijoles con epazote",
+        "Colocar en comal y retirar hasta que se haya derretido el queso y servir"
+      ]
+    },
+    {
+      "id": 53,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 53,
+      "tipo": "platillo",
+      "nombre": "Burritos integrales de pollo",
+      "ingredientes": [
+        "60 gr de pechuga de pollo deshebrada",
+        "½ pza de cebolla fileteada",
+        "2 pzas medianas de jitomate",
+        "1 diente de ajo y chipotle al gusto",
+        "8 pzas de tortillas de harina integral"
+      ],
+      "preparacion": [
+        "Calentar las tortillas de harina en el comal",
+        "Agregar la tinga de pollo, formar el burrito y terminar de calentar"
+      ]
+    },
+    {
+      "id": 54,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 54,
+      "tipo": "platillo",
+      "nombre": "Huevos a la mexicana",
+      "ingredientes": [
+        "2 pzas de huevo",
+        "¼ de cebolla blanca picada",
+        "2 jitomates medianos picados",
+        "1 cdta de aceite",
+        "Una pizca de sal"
+      ],
+      "preparacion": [
+        "En un sartén calentar la cucharadita de aceite y agregar el pico de gallo",
+        "Una vez que esté frito, agregar el huevo (previamente batido)",
+        "Sazonar con una pizca de sal y revolver hasta que esté bien cocido el huevo"
+      ]
+    },
+    {
+      "id": 55,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 55,
+      "tipo": "platillo",
+      "nombre": "Huevo revuelto con frijoles",
+      "ingredientes": [
+        "2 pzas de huevo",
+        "⅓ de tza de frijoles refritos (2 cucharadas)",
+        "Una pizca de sal",
+        "1 cucharadita de aceite para cocinar"
+      ],
+      "preparacion": [
+        "En un sartén calentar la cucharadita de aceite y agregar el huevo y los frijoles",
+        "Revolver hasta que esté bien cocido",
+        "Servir y acompañar con dos tortillas de maíz"
+      ]
+    },
+    {
+      "id": 56,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 56,
+      "tipo": "platillo",
+      "nombre": "Molletes",
+      "ingredientes": [
+        "1 bolillo sin migajón partido por la mitad",
+        "⅓ de tza de frijoles refritos (2 cucharadas)",
+        "30 gr de queso Oaxaca",
+        "Para el pico de gallo: 2 pzas de jitomate medianas",
+        "¼ de cebolla blanca picada",
+        "1 pza de chile serrano"
+      ],
+      "preparacion": [
+        "Partir el bolillo por la mitad, retirar el migajón",
+        "Posteriormente untar los frijoles y colocar el queso deshebrado",
+        "Colocar en un sartén (previamente caliente) hasta que se derrita el queso",
+        "Servir y colocar el pico de gallo"
+      ]
+    },
+    {
+      "id": 57,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 57,
+      "tipo": "platillo",
+      "nombre": "Atún a la mexicana",
+      "ingredientes": [
+        "⅓ tza de atún en agua drenado",
+        "Para el pico de gallo: 2 pzas de jitomate medianas",
+        "¼ de cebolla blanca picada",
+        "1 pza de chile serrano",
+        "Jugo de 1 limón",
+        "⅓ de aguacate",
+        "2 pzas de tostada horneada de maíz"
+      ],
+      "preparacion": [
+        "Colocar el atún (previamente drenado)",
+        "Mezclar con el pico de gallo y el limón",
+        "Agregar una pizca de sal y pimienta",
+        "Acompañar con 2 tostadas horneadas de maíz y agregar aguacate en la parte de arriba"
+      ]
+    },
+    {
+      "id": 58,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 58,
+      "tipo": "platillo",
+      "nombre": "Picadillo",
+      "ingredientes": [
+        "½ tza de carne molida",
+        "Cebolla picada al gusto",
+        "Hojas de laurel",
+        "½ tza de verduras cocidas y picadas (papa, chícharo y zanahoria)",
+        "¼ tza de puré de tomate",
+        "1 cucharadita de aceite"
+      ],
+      "preparacion": [
+        "Calentar el aceite y freír la cebolla hasta que esté transparente",
+        "Agregar la carne, las hojas de laurel, y cocinar por 5 minutos moviendo ocasionalmente",
+        "Agregar el puré sobre la carne, tapar y cocinar hasta que comience a hervir",
+        "Agregar las verduras y cocinar por 5 minutos más"
+      ]
+    },
+    {
+      "id": 59,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 59,
+      "tipo": "platillo",
+      "nombre": "Tacos de fajitas de pollo",
+      "ingredientes": [
+        "60 gr de pechuga asada sazonada con orégano y sal",
+        "2 tortillas de maíz",
+        "¼ pimiento verde",
+        "½ tza de pimiento",
+        "¼ cebolla blanca fileteada",
+        "1 cdta de aceite"
+      ],
+      "preparacion": [
+        "Cortar la pechuga de pollo en tiras",
+        "Picar las verduras en tiras o en cubos",
+        "En un sartén a fuego medio agregar el aceite y esperar que se caliente un poco",
+        "Agregar el pollo y las verduras, sazonar con sal y pimienta al gusto y tapar",
+        "Asegurar de que el pollo se haya cocido y apagar el fuego",
+        "Calentar las tortillas de maíz"
+      ]
+    },
+    {
+      "id": 60,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 60,
+      "tipo": "platillo",
+      "nombre": "Avena reposada con manzana, coco rallado y cacao",
+      "ingredientes": [
+        "½ tza de avena cruda en hojuelas",
+        "1 tza de leche descremada",
+        "1 pza manzana pequeña (picada)",
+        "1 cdta coco rallado",
+        "Cacao al gusto",
+        "Canela al gusto"
+      ],
+      "preparacion": [
+        "Colocar la avena en un recipiente con tapa y agregar la leche, el cacao, el coco y la canela",
+        "Dejar reposar durante la noche en el refrigerador",
+        "Por la mañana calentar la avena y acompañarla con la manzana picada"
+      ]
+    },
+    {
+      "id": 61,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 61,
+      "tipo": "platillo",
+      "nombre": "Tostadas de salpicón de res",
+      "ingredientes": [
+        "2 tostadas horneadas de maíz",
+        "1 tza o 90 gr de carne de res deshebrada",
+        "2 jitomates medianos en cuadritos",
+        "¼ taza cebolla fileteada",
+        "1 ramita de cilantro finamente picada",
+        "⅓ de pza aguacate",
+        "1 cdita de aceite de oliva",
+        "1 pizca de sal y orégano"
+      ],
+      "preparacion": [
+        "Cocer la carne con ajo, cebolla y sal; cuando ya esté lista, enfriar y deshebrar",
+        "En un refractario, colocar la carne junto con la verdura (previamente lavada, desinfectada y picada)",
+        "Mezclar perfectamente y sazonar con una pizca de sal, orégano y una cucharadita de aceite de oliva",
+        "Finalmente, agregar el aguacate en cubos",
+        "Servir la preparación sobre las tostadas horneadas"
+      ]
+    },
+    {
+      "id": 62,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 63,
+      "tipo": "refrigerio",
+      "nombre": "Chayote cocido",
+      "ingredientes": [
+        "½ pieza de chayote",
+        "Agua para cocerlo",
+        "½ pieza de limón"
+      ],
+      "preparacion": [
+        "En una olla con agua hirviendo agregar los chayotes y dejar cocer",
+        "Servir en mitad o rebanado",
+        "Agregar limón si se desea"
+      ]
+    },
+    {
+      "id": 63,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 63,
+      "tipo": "refrigerio",
+      "nombre": "Pepihuates",
+      "ingredientes": [
+        "½ tza de cacahuate natural sin cáscara",
+        "¼ tza de pepino"
+      ],
+      "preparacion": [
+        "Colocar los cacahuates en un vaso",
+        "Agregar el pepino",
+        "Agregar limón y chile en polvo al gusto"
+      ]
+    },
+    {
+      "id": 64,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 64,
+      "tipo": "refrigerio",
+      "nombre": "Fruta con yogurt",
+      "ingredientes": [
+        "½ taza de yogurt natural",
+        "¼ taza de melón",
+        "⅓ taza de papaya",
+        "¼ pieza de manzana",
+        "¼ pieza de plátano"
+      ],
+      "preparacion": [
+        "Lavar, desinfectar y cortar las frutas",
+        "Agregar las frutas al yogurt"
+      ]
+    },
+    {
+      "id": 65,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 64,
+      "tipo": "refrigerio",
+      "nombre": "Plátano con yogurt",
+      "ingredientes": [
+        "1 plátano chico",
+        "½ tza de yogurt natural",
+        "1 cda de ajonjolí tostado",
+        "Canela al gusto"
+      ],
+      "preparacion": [
+        "Colocar el yogurt y el plátano rebanado en un recipiente",
+        "Agregar el ajonjolí y la canela"
+      ]
+    },
+    {
+      "id": 66,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 65,
+      "tipo": "refrigerio",
+      "nombre": "Ensalada de betabel, piña y cacahuates",
+      "ingredientes": [
+        "½ tza de betabel cocido en cuadritos",
+        "½ tza de piña en cuadritos",
+        "2 cdas de cacahuates"
+      ],
+      "preparacion": [
+        "En un contenedor mezclar todos los ingredientes"
+      ]
+    },
+    {
+      "id": 67,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 65,
+      "tipo": "refrigerio",
+      "nombre": "Ensalada de pepino, col y jitomate",
+      "ingredientes": [
+        "2 pepinos con cáscara",
+        "½ tza de jícama",
+        "½ tza de col cruda picada",
+        "¼ tza de jitomate",
+        "Sal al gusto",
+        "1 pza de limón"
+      ],
+      "preparacion": [
+        "Lavar y desinfectar las verduras y frutas (jícama, pepino, col y zanahoria)",
+        "Rallarlas finamente",
+        "Sazonar con un poco de sal y limón",
+        "Servirlas frescas"
+      ]
+    },
+    {
+      "id": 68,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 66,
+      "tipo": "refrigerio",
+      "nombre": "Bastones de verdura",
+      "ingredientes": [
+        "½ tza de bastones de jícama",
+        "½ tza de bastones de pepino",
+        "½ tza de bastones de zanahoria",
+        "Jugo de un limón",
+        "2 cdas de cacahuates pelados y tostados",
+        "Una pizca de chile piquín"
+      ],
+      "preparacion": [
+        "Colocar en un recipiente los bastones y los cacahuates",
+        "Agregar el limón y el chile piquín"
+      ]
+    },
+    {
+      "id": 69,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 66,
+      "tipo": "refrigerio",
+      "nombre": "Jícama y zanahoria rallada con limón",
+      "ingredientes": [
+        "1 zanahoria rallada",
+        "1 jícama picada",
+        "1 pizca de sal",
+        "1 limón"
+      ],
+      "preparacion": [
+        "Lavar y rallar los vegetales",
+        "Colocarlos en un refractario, agregar limón y una pizca de sal"
+      ]
+    },
+    {
+      "id": 70,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 67,
+      "tipo": "refrigerio",
+      "nombre": "Varitas de zanahoria y pepino",
+      "ingredientes": [
+        "½ tza zanahoria",
+        "½ tza pepino"
+      ],
+      "preparacion": [
+        "Picar los ingredientes en varitas y se colocan en un recipiente",
+        "Agregar sal y limón al gusto"
+      ]
+    },
+    {
+      "id": 71,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 67,
+      "tipo": "refrigerio",
+      "nombre": "Fresas con zanahoria",
+      "ingredientes": [
+        "1 tza de fresas picadas",
+        "½ tza de zanahoria rallada",
+        "½ tza de yogurt natural",
+        "2 cdas de cacahuates pelados"
+      ],
+      "preparacion": [
+        "En un recipiente agregar la fresa picada y la zanahoria rallada",
+        "Agregar el yogurt y mezclar los ingredientes perfectamente",
+        "Decorar con los cacahuates"
+      ]
+    },
+    {
+      "id": 72,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 68,
+      "tipo": "refrigerio",
+      "nombre": "Brochetas de verdura, fruta y pollo",
+      "ingredientes": [
+        "½ tza de piña picada en cubos grandes",
+        "½ tza de pepino partido en cubos grandes",
+        "6 uvas",
+        "¼ tza de pechuga cortada en cubos",
+        "1 cucharada de ajonjolí tostado",
+        "Jugo de medio limón",
+        "2 palitos de brocheta"
+      ],
+      "preparacion": [
+        "Armar las brochetas insertando un cubo de piña, pepino, pollo y uva",
+        "Agregar un poco de jugo de limón y el ajonjolí"
+      ]
+    },
+    {
+      "id": 73,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 68,
+      "tipo": "refrigerio",
+      "nombre": "Licuado de plátano con avena",
+      "ingredientes": [
+        "1 tza de leche descremada",
+        "½ pieza de plátano",
+        "2 cdas de avena",
+        "1 pizca de canela molida (opcional)"
+      ],
+      "preparacion": [
+        "Licuar todos los ingredientes",
+        "Puedes acompañarlo con 5 piezas de almendras o 3 mitades de nuez"
+      ]
+    },
+    {
+      "id": 74,
+      "estado": "general",
+      "recetario": "Recetario para Cooperativas Escolares",
+      "pagina": 69,
+      "tipo": "refrigerio",
+      "nombre": "Avena con guayaba",
+      "ingredientes": [
+        "½ tza de guayaba picada en pequeños cubos",
+        "¼ tza de agua",
+        "1 cdta de piloncillo molido",
+        "1 pizca de canela en polvo",
+        "Cáscara de limón",
+        "½ tza de avena",
+        "1 cda de cacahuate molido",
+        "¼ tza de arándano",
+        "¼ tza de amaranto",
+        "½ tza de yogurt natural",
+        "1 cda de miel",
+        "½ cdta de jugo de limón"
+      ],
+      "preparacion": [
+        "En una cacerola, cocinar la guayaba junto con el piloncillo, la canela molida y la cáscara de limón por 8 minutos",
+        "Enfriar",
+        "En un sartén a fuego medio, tostar la avena sin dejar de mover, agregar el cacahuate, el arándano y el amaranto",
+        "Mezclar y tostar por 10 minutos más a fuego bajo y sin dejar de mover",
+        "Reservar en un recipiente",
+        "Mezclar el yogurt con la miel, el limón y la ralladura hasta integrar",
+        "Enfriar por 30 minutos o hasta que la mezcla tenga mayor consistencia",
+        "En un vaso con tapa colocar una capa de yogurt, una de avena y otra de guayaba",
+        "Repetir hasta terminar con guayaba"
+      ]
+    }
+  ]
+}
